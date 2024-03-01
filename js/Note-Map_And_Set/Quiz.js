@@ -1,6 +1,16 @@
 // https://ko.javascript.info/map-set
 function unique(arr) {
-    /* 제출 답안 */
+    let set = new Set();
+
+    for (let i = 0; i < arr.length; i++) {
+        set.add(arr[i]);
+    }
+
+    return set;
+}
+
+function unique1(arr) {
+    return Array.from(new Set(arr));
 }
 
 let values = ["Hare", "Krishna", "Hare", "Krishna",
@@ -8,4 +18,5 @@ let values = ["Hare", "Krishna", "Hare", "Krishna",
 ];
 
 // `Hare, Krishna, :-O`만 출력되어야 합니다.
-unique(values);
+console.log(unique(values));
+console.log(unique1(values));
