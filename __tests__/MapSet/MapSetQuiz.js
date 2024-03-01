@@ -20,3 +20,5 @@ let values = ["Hare", "Krishna", "Hare", "Krishna",
 // `Hare, Krishna, :-O`만 출력되어야 합니다.
 console.log(unique(values));
 console.log(unique1(values));
+
+module.exports = {unique1};
