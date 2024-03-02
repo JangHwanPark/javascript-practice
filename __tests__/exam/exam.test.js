@@ -1,4 +1,4 @@
-const {sum, subtract, multiply, divide} = require('./exam');
+const {sum, subtract, multiply, divide} = require('../../js/Jest-Exam/exam');
 
 /**
  * test : 단일 테스트케이스

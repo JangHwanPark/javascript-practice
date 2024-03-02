@@ -1,5 +1,5 @@
 const assert = require('assert');
-const {unique1} = require('./MapSetQuiz');
+const {unique1} = require('../../js/Note-Map_And_Set/MapSetQuiz');
 
 describe("unique", () => {
     it("removes non-unique elements", () => {
