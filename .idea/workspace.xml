@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="548b6a15-d8ff-46df-b9b0-6e67566ea977" name="변경" comment="" />
+    <list default="true" id="548b6a15-d8ff-46df-b9b0-6e67566ea977" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/data/file/inputFile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/fsModuleUtils.js" beforeDir="false" afterPath="$PROJECT_DIR$/node/fsModuleUtils.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,10 +27,28 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/user/WebstormProjects/GitReadme",
+    "git-widget-placeholder": "main",
+    "javascript.nodejs.core.library.configured.version": "20.5.1",
+    "javascript.nodejs.core.library.typings.version": "20.5.1",
+    "last_opened_file_path": "/Users/bagjanghwan/WebstormProjects/javascript-practice",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="fsModuleUtils.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node/fsModuleUtils.js" working-dir="$PROJECT_DIR$/node">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.fsModuleUtils.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
@@ -33,6 +58,9 @@
       <option name="presentableId" value="Default" />
       <updated>1710838483136</updated>
       <workItem from="1710838484458" duration="37000" />
+      <workItem from="1712128197992" duration="2000" />
+      <workItem from="1712128496976" duration="3000" />
+      <workItem from="1712131818094" duration="975000" />
     </task>
     <servers />
   </component>
