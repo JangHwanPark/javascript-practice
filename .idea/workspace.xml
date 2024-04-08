@@ -5,18 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="548b6a15-d8ff-46df-b9b0-6e67566ea977" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/data/file/inputFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/Note-Async/00.exam.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/Note-Async/01.callback.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/Note-Async/02.promise.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/basic/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/counts/exam03.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/fsModuleUtils.js" beforeDir="false" afterPath="$PROJECT_DIR$/node/fsModuleUtils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/ch01/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/ch01/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2dts0BYLaPhpCF6NSOtRmuDJk6E" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -24,30 +45,52 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "javascript.nodejs.core.library.configured.version": "20.5.1",
-    "javascript.nodejs.core.library.typings.version": "20.5.1",
-    "last_opened_file_path": "/Users/bagjanghwan/WebstormProjects/javascript-practice",
+    "ignore.virus.scanning.warn.message": "true",
+    "javascript.nodejs.core.library.configured.version": "18.16.0",
+    "javascript.nodejs.core.library.typings.version": "18.16.20",
+    "last_opened_file_path": "C:/Users/user/WebstormProjects/javascript-practice",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "yarn",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "ts.external.directory.path": "C:\\Users\\user\\AppData\\Local\\JetBrains\\Toolbox\\apps\\WebStorm\\ch-0\\241.14494.235\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\WebstormProjects\javascript-practice\js\basic" />
+      <recent name="C:\Users\user\WebstormProjects\javascript-practice" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.app.js">
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/basic/app.js" working-dir="$PROJECT_DIR$/ch01">
+      <method v="2" />
+    </configuration>
     <configuration name="fsModuleUtils.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node/fsModuleUtils.js" working-dir="$PROJECT_DIR$/node">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.app.js" />
         <item itemvalue="Node.js.fsModuleUtils.js" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-WS-241.14494.235" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -61,6 +104,20 @@
       <workItem from="1712128197992" duration="2000" />
       <workItem from="1712128496976" duration="3000" />
       <workItem from="1712131818094" duration="975000" />
+      <workItem from="1712384592543" duration="1350000" />
+      <workItem from="1712392378659" duration="3240000" />
+      <workItem from="1712406700323" duration="1057000" />
+      <workItem from="1712452467737" duration="3902000" />
+      <workItem from="1712486244735" duration="25000" />
+      <workItem from="1712486295878" duration="12000" />
+      <workItem from="1712486324802" duration="1118000" />
+      <workItem from="1712488083366" duration="649000" />
+      <workItem from="1712494725883" duration="595000" />
+      <workItem from="1712533332139" duration="1318000" />
+      <workItem from="1712563934003" duration="19000" />
+      <workItem from="1712563983894" duration="39000" />
+      <workItem from="1712564047765" duration="168000" />
+      <workItem from="1712564233016" duration="3814000" />
     </task>
     <servers />
   </component>
