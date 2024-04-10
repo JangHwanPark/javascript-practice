@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="548b6a15-d8ff-46df-b9b0-6e67566ea977" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/ch01/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/Note-Async/00.exam.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/Note-Async/01.callback.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/Note-Async/02.promise.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/basic/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/counts/exam03.js" afterDir="false" />
+    <list default="true" id="548b6a15-d8ff-46df-b9b0-6e67566ea977" name="변경" comment="study : 이벤트 리스너">
+      <change afterPath="$PROJECT_DIR$/ch02/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/ch01/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/ch01/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,9 +27,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;JangHwanPark&quot;
+  }
+}</component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
   </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/JangHwanPark/javascript-practice.git&quot;,
+    &quot;accountId&quot;: &quot;20983d0b-d01d-4d25-bc9b-8a2e5eee0803&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -60,12 +67,15 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "yarn",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "ts.external.directory.path": "C:\\Users\\user\\AppData\\Local\\JetBrains\\Toolbox\\apps\\WebStorm\\ch-0\\241.14494.235\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\WebstormProjects\javascript-practice" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\user\WebstormProjects\javascript-practice\js\basic" />
       <recent name="C:\Users\user\WebstormProjects\javascript-practice" />
@@ -117,11 +127,27 @@
       <workItem from="1712563934003" duration="19000" />
       <workItem from="1712563983894" duration="39000" />
       <workItem from="1712564047765" duration="168000" />
-      <workItem from="1712564233016" duration="3814000" />
+      <workItem from="1712564233016" duration="3865000" />
+      <workItem from="1712569230007" duration="5000" />
+      <workItem from="1712705005459" duration="25000" />
+      <workItem from="1712709934250" duration="7322000" />
     </task>
+    <task id="LOCAL-00001" summary="study : 이벤트 리스너">
+      <option name="closed" value="true" />
+      <created>1712568444749</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712568444749</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="study : 이벤트 리스너" />
+    <option name="LAST_COMMIT_MESSAGE" value="study : 이벤트 리스너" />
   </component>
 </project>
