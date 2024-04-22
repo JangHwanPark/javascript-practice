@@ -1,5 +1,5 @@
 // Variable
-const inputColor = '입력 색상: ';
+const userInputColor = '입력 색상';
 const root = document.querySelector('#wrap');
 
 // Create Element
@@ -7,7 +7,8 @@ const div = document.createElement('div');
 const label = document.createElement('label');
 const input = document.createElement('input');
 const button = document.createElement('button');
-const paragraph = document.createElement('p');
+const showInputColorCode = document.createElement('p');
+const showBackgroundColor = document.createElement('p');
 
 // Add Element
 root.appendChild(div);
@@ -15,7 +16,8 @@ div.appendChild(label);
 div.appendChild(input);
 div.appendChild(button);
 
-root.appendChild(paragraph);
+root.appendChild(showInputColorCode);
+root.appendChild(showBackgroundColor);
 
 // Element Design
 div.id = 'input_wrap';
@@ -34,15 +36,22 @@ input.autocomplete = 'off';
 button.id = 'button';
 button.innerText = '색 변경 하기';
 
-paragraph.id = 'paragraph';
-paragraph.innerText = inputColor;
+// paragraph, p태그
+showInputColorCode.id = 'paragraph';
+showInputColorCode.innerText = '색상 코드를 입력하세요';
+
+// showBackgroundColor, p태그
+showBackgroundColor.innerText = '입력한 색상이 출력됩니다.'
+showBackgroundColor.style.width = '300px';
+showBackgroundColor.style.margin = '0 auto';
+showBackgroundColor.style.textAlign = 'center';
 
 // Event
-input.addEventListener('input', (e) => {
-    console.log('input: ', e.target.value)
-})
-
 button.addEventListener('click', () => {
-    console.log('btn: ', input.value)
-    paragraph.innerText = `${inputColor}${input.value}`;
+    // 입력받은 색상 코드로 변경, 빈칸 제출시 경고 메세지 출력
+    if (input.value !== '') showInputColorCode.innerText = `${input.value}`;         
+    else showInputColorCode.innerText = '색상 코드를 입력하세요!!'
+
+    // 입력받은 색상으로 변경하기
+    showBackgroundColor.style.backgroundColor = input.value;
 })
