@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="548b6a15-d8ff-46df-b9b0-6e67566ea977" name="변경" comment="feat: 이벤트 생성">
+    <list default="true" id="548b6a15-d8ff-46df-b9b0-6e67566ea977" name="변경" comment="feat: 입력한 색상으로 bg 컬러 변경">
+      <change afterPath="$PROJECT_DIR$/threeJs/ch01/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threeJs/ch01/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch02/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/ch02/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,9 +17,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -60,7 +61,7 @@
     "ignore.virus.scanning.warn.message": "true",
     "javascript.nodejs.core.library.configured.version": "18.16.0",
     "javascript.nodejs.core.library.typings.version": "18.16.20",
-    "last_opened_file_path": "C:/Users/user/WebstormProjects/javascript-practice",
+    "last_opened_file_path": "C:/Users/user/WebstormProjects/javascript-practice/threeJs/ch01",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -74,6 +75,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\WebstormProjects\javascript-practice\threeJs\ch01" />
       <recent name="C:\Users\user\WebstormProjects\javascript-practice" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -142,7 +144,8 @@
       <workItem from="1713407039577" duration="1000" />
       <workItem from="1713440653293" duration="48000" />
       <workItem from="1713775436568" duration="38000" />
-      <workItem from="1713779809325" duration="2797000" />
+      <workItem from="1713779809325" duration="4577000" />
+      <workItem from="1713864959164" duration="481000" />
     </task>
     <task id="LOCAL-00001" summary="study : 이벤트 리스너">
       <option name="closed" value="true" />
@@ -168,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712745166835</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat: 입력한 색상으로 bg 컬러 변경">
+      <option name="closed" value="true" />
+      <created>1713782697445</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713782697445</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,6 +189,7 @@
     <MESSAGE value="study : 이벤트 리스너" />
     <MESSAGE value="feat: Change Color 기초 마크업 작업" />
     <MESSAGE value="feat: 이벤트 생성" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 이벤트 생성" />
+    <MESSAGE value="feat: 입력한 색상으로 bg 컬러 변경" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 입력한 색상으로 bg 컬러 변경" />
   </component>
 </project>
