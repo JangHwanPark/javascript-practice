@@ -1,0 +1,53 @@
+html, body,
+#root, .container {
+    width: 100%;
+    height: 100%;
+}
+
+.textCenter {
+    text-align: center;
+}
+
+.fontSize-lg {
+    font-size: 1.25rem;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+
+.algorithm {
+    height: 200px;
+}
+
+.inputValue {
+    margin-top: 2rem;
+    padding: 0 .5rem;
+    height: 95px;
+    gap: .5rem;
+    border: 1px solid #333;
+}
+
+.list {
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.elements {
+    height: 50px;
+    padding: .5rem;
+    display: flex;
+    align-items: center;
+    border: 1px solid #333;
+}
