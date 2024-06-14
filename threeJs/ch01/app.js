@@ -1,1 +1,0 @@
-import * as THREE from 'https://cdn.jsdelivr.net/npm/three/build/three.module.js';
