@@ -4,11 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="548b6a15-d8ff-46df-b9b0-6e67566ea977" name="변경" comment="-">
-      <change afterPath="$PROJECT_DIR$/algorithm/BubbleSort/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/BubbleSort/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/BubbleSort/styles.css" afterDir="false" />
+    <list default="true" id="548b6a15-d8ff-46df-b9b0-6e67566ea977" name="변경" comment="js project : Bubble Sort Event">
+      <change afterPath="$PROJECT_DIR$/data/json/user100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/json/user1000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__tests__/MapSet/MapSetQuiz.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__tests__/exam/exam.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/BubbleSort/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/BubbleSort/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/BubbleSort/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch01/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch01/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch01/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch02/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch02/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch02/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Jest-Exam/exam.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Note-Array/00.Array.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Note-Array/01_Array_Built-In_Funcion.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Note-Array/02_Array_Built-In_Funcion.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Note-Async/00.exam.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Note-Async/01.callback.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Note-Async/02.promise.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Note-Loop/01.loop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Note-Map_And_Set/00.Map.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Note-Map_And_Set/00.Set.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Note-Map_And_Set/MapSetQuiz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Note-Prototype/01.constructor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Note-Prototype/02.prototype.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/basic/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/counts/exam01.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/counts/exam02.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/counts/exam03.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/exception_handling.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/fsModuleUtils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/fs_ModuleEx/exam01.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/threeJs/ch01/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/threeJs/ch01/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts/.gitkeep" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,13 +53,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -39,7 +79,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/JangHwanPark/javascript-practice.git&quot;,
-    &quot;accountId&quot;: &quot;20983d0b-d01d-4d25-bc9b-8a2e5eee0803&quot;
+    &quot;accountId&quot;: &quot;9fef3ba1-3626-4068-807e-6551a953a320&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -53,16 +93,18 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript 디버그.test.executor&quot;: &quot;Debug&quot;,
+    &quot;JavaScript 디버그.test.executor&quot;: &quot;Run&quot;,
     &quot;Node.js.app.js.executor&quot;: &quot;Debug&quot;,
+    &quot;Node.js.exam01.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.exam04.js.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Scroll-Event&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;18.16.0&quot;,
-    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;18.16.20&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/WebstormProjects/javascript-practice/threeJs/ch01&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;22.0.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;20.12.11&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/WebstormProjects/javascript-practice/js/counts&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -76,19 +118,28 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\WebstormProjects\javascript-practice\js\counts" />
       <recent name="C:\Users\user\WebstormProjects\javascript-practice\threeJs\ch01" />
       <recent name="C:\Users\user\WebstormProjects\javascript-practice" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\WebstormProjects\javascript-practice\data\json" />
+      <recent name="C:\Users\user\WebstormProjects\javascript-practice\ch03\01_MouseEvent" />
       <recent name="C:\Users\user\WebstormProjects\javascript-practice\js\basic" />
       <recent name="C:\Users\user\WebstormProjects\javascript-practice" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript 디버그.test">
+  <component name="RunManager" selected="Node.js.exam04.js">
     <configuration name="test" type="JavascriptDebugType" uri="http://localhost:63342/javascript-practice/ch02/index.html?_ijt=71900lf7ricju9jr7d7g23k1dc&amp;_ij_reload=RELOAD_ON_SAVE" useFirstLineBreakpoints="true" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/basic/app.js" working-dir="$PROJECT_DIR$/ch01">
+      <method v="2" />
+    </configuration>
+    <configuration name="exam01.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/algorithm/01_prefix_sum/exam01.js" working-dir="$PROJECT_DIR$/algorithm/01_prefix_sum">
+      <method v="2" />
+    </configuration>
+    <configuration name="exam04.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/counts/exam04.js" working-dir="$PROJECT_DIR$/js/counts">
       <method v="2" />
     </configuration>
     <configuration name="fsModuleUtils.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node/fsModuleUtils.js" working-dir="$PROJECT_DIR$/node">
@@ -96,12 +147,17 @@
     </configuration>
     <list>
       <item itemvalue="JavaScript 디버그.test" />
+      <item itemvalue="Node.js.exam04.js" />
       <item itemvalue="Node.js.app.js" />
+      <item itemvalue="Node.js.exam01.js" />
       <item itemvalue="Node.js.fsModuleUtils.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.fsModuleUtils.js" />
+        <item itemvalue="Node.js.exam01.js" />
         <item itemvalue="Node.js.app.js" />
+        <item itemvalue="Node.js.exam04.js" />
         <item itemvalue="Node.js.fsModuleUtils.js" />
       </list>
     </recent_temporary>
@@ -147,7 +203,18 @@
       <workItem from="1713775436568" duration="38000" />
       <workItem from="1713779809325" duration="4577000" />
       <workItem from="1713864959164" duration="575000" />
-      <workItem from="1713963736511" duration="4484000" />
+      <workItem from="1713963736511" duration="4522000" />
+      <workItem from="1713994803817" duration="2649000" />
+      <workItem from="1715087822351" duration="12000" />
+      <workItem from="1715501578574" duration="1725000" />
+      <workItem from="1715593566555" duration="1000" />
+      <workItem from="1715761781162" duration="157000" />
+      <workItem from="1715776000865" duration="651000" />
+      <workItem from="1715833228772" duration="648000" />
+      <workItem from="1716689901979" duration="701000" />
+      <workItem from="1718285126966" duration="994000" />
+      <workItem from="1718287089895" duration="1622000" />
+      <workItem from="1718319658677" duration="4296000" />
     </task>
     <task id="LOCAL-00001" summary="study : 이벤트 리스너">
       <option name="closed" value="true" />
@@ -189,7 +256,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713865533804</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="js project : Bubble Sort Event">
+      <option name="closed" value="true" />
+      <created>1713968512311</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1713968512311</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,6 +276,7 @@
     <MESSAGE value="feat: 이벤트 생성" />
     <MESSAGE value="feat: 입력한 색상으로 bg 컬러 변경" />
     <MESSAGE value="-" />
-    <option name="LAST_COMMIT_MESSAGE" value="-" />
+    <MESSAGE value="js project : Bubble Sort Event" />
+    <option name="LAST_COMMIT_MESSAGE" value="js project : Bubble Sort Event" />
   </component>
 </project>
