@@ -5,37 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="548b6a15-d8ff-46df-b9b0-6e67566ea977" name="변경" comment="-">
+      <change afterPath="$PROJECT_DIR$/programmers/0616_120585.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/0616_12931.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch01/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch01/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch01/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch02/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch02/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch02/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/Jest-Exam/exam.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/Note-Array/00.Array.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/Note-Array/01_Array_Built-In_Funcion.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/Note-Array/02_Array_Built-In_Funcion.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/Note-Async/00.exam.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/Note-Async/01.callback.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/Note-Async/02.promise.js" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/0615_120583.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/Note-Loop/01.loop.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/Note-Map_And_Set/00.Map.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/Note-Map_And_Set/00.Set.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/Note-Map_And_Set/MapSetQuiz.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/Note-Prototype/01.constructor.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/Note-Prototype/02.prototype.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/basic/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/counts/exam01.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/counts/exam02.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/counts/exam03.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/exception_handling.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/fsModuleUtils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node/fs_ModuleEx/exam01.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/threeJs/ch01/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/threeJs/ch01/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ts/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/0615_12916.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,34 +54,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript 디버그.test.executor": "Debug",
-    "Node.js.0615_120583.js.executor": "Run",
-    "Node.js.0615_12916.js.executor": "Run",
-    "Node.js.app.js.executor": "Debug",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "algorithm",
-    "ignore.virus.scanning.warn.message": "true",
-    "javascript.nodejs.core.library.configured.version": "18.16.0",
-    "javascript.nodejs.core.library.typings.version": "18.16.20",
-    "last_opened_file_path": "C:/Users/user/WebstormProjects/javascript-practice/threeJs/ch01",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "yarn",
-    "settings.editor.selected.configurable": "project.propDebugger",
-    "ts.external.directory.path": "C:\\Users\\user\\AppData\\Local\\JetBrains\\Toolbox\\apps\\WebStorm\\ch-0\\241.14494.235\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript 디버그.test.executor&quot;: &quot;Debug&quot;,
+    &quot;Node.js.0615_120583.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.0615_12916.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.0616_120585.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.0616_12931.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.app.js.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;algorithm&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;18.16.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;18.16.20&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/WebstormProjects/javascript-practice/programmers&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\user\\AppData\\Local\\JetBrains\\Toolbox\\apps\\WebStorm\\ch-0\\241.14494.235\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\WebstormProjects\javascript-practice\programmers" />
       <recent name="C:\Users\user\WebstormProjects\javascript-practice\threeJs\ch01" />
       <recent name="C:\Users\user\WebstormProjects\javascript-practice" />
     </key>
@@ -118,7 +93,7 @@
       <recent name="C:\Users\user\WebstormProjects\javascript-practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.0615_12916.js">
+  <component name="RunManager" selected="Node.js.0616_12931.js">
     <configuration name="test" type="JavascriptDebugType" uri="http://localhost:63342/javascript-practice/ch02/index.html?_ijt=71900lf7ricju9jr7d7g23k1dc&amp;_ij_reload=RELOAD_ON_SAVE" useFirstLineBreakpoints="true" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -128,25 +103,30 @@
     <configuration name="0615_12916.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/programmers/0615_12916.js" working-dir="$PROJECT_DIR$/programmers">
       <method v="2" />
     </configuration>
-    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/basic/app.js" working-dir="$PROJECT_DIR$/ch01">
+    <configuration name="0616_120585.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/programmers/0616_120585.js" working-dir="$PROJECT_DIR$/programmers">
       <method v="2" />
     </configuration>
-    <configuration name="fsModuleUtils.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node/fsModuleUtils.js" working-dir="$PROJECT_DIR$/node">
+    <configuration name="0616_12931.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/programmers/0616_12931.js" working-dir="$PROJECT_DIR$/programmers">
+      <method v="2" />
+    </configuration>
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/basic/app.js" working-dir="$PROJECT_DIR$/ch01">
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="JavaScript 디버그.test" />
       <item itemvalue="Node.js.0615_120583.js" />
       <item itemvalue="Node.js.0615_12916.js" />
+      <item itemvalue="Node.js.0616_120585.js" />
+      <item itemvalue="Node.js.0616_12931.js" />
       <item itemvalue="Node.js.app.js" />
-      <item itemvalue="Node.js.fsModuleUtils.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.0616_12931.js" />
+        <item itemvalue="Node.js.0616_120585.js" />
         <item itemvalue="Node.js.0615_12916.js" />
         <item itemvalue="Node.js.0615_120583.js" />
         <item itemvalue="Node.js.app.js" />
-        <item itemvalue="Node.js.fsModuleUtils.js" />
       </list>
     </recent_temporary>
   </component>
@@ -233,7 +213,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713865533804</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="클래스 문법">
+      <option name="closed" value="true" />
+      <created>1718492364959</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718492364959</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,6 +233,7 @@
     <MESSAGE value="feat: 이벤트 생성" />
     <MESSAGE value="feat: 입력한 색상으로 bg 컬러 변경" />
     <MESSAGE value="-" />
-    <option name="LAST_COMMIT_MESSAGE" value="-" />
+    <MESSAGE value="클래스 문법" />
+    <option name="LAST_COMMIT_MESSAGE" value="클래스 문법" />
   </component>
 </project>
