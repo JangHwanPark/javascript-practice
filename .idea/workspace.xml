@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="548b6a15-d8ff-46df-b9b0-6e67566ea977" name="변경" comment="-">
-      <change afterPath="$PROJECT_DIR$/algorithm/BubbleSort/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/BubbleSort/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/BubbleSort/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css_anime/button_anime/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css_anime/button_anime/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css_anime/button_anime/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch01/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch01/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch01/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch02/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch02/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch02/style.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
