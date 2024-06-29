@@ -1,0 +1,352 @@
+[
+    {
+        "fruit_id": 1,
+        "fruit_name": "Fruit1",
+        "color": "Yellow",
+        "weight_g": 140.70039921195763,
+        "price_per_kg": 6.272854333533607
+    },
+    {
+        "fruit_id": 2,
+        "fruit_name": "Fruit2",
+        "color": "Yellow",
+        "weight_g": 450.48504372179224,
+        "price_per_kg": 12.275545160242515
+    },
+    {
+        "fruit_id": 3,
+        "fruit_name": "Fruit3",
+        "color": "Orange",
+        "weight_g": 62.48160838535438,
+        "price_per_kg": 3.2412216611719256
+    },
+    {
+        "fruit_id": 4,
+        "fruit_name": "Fruit4",
+        "color": "Orange",
+        "weight_g": 233.37871235847697,
+        "price_per_kg": 8.524843142232228
+    },
+    {
+        "fruit_id": 5,
+        "fruit_name": "Fruit5",
+        "color": "Green",
+        "weight_g": 55.47285311253554,
+        "price_per_kg": 6.503881489783296
+    },
+    {
+        "fruit_id": 6,
+        "fruit_name": "Fruit6",
+        "color": "Red",
+        "weight_g": 243.73926221654855,
+        "price_per_kg": 6.734809232406169
+    },
+    {
+        "fruit_id": 7,
+        "fruit_name": "Fruit7",
+        "color": "Red",
+        "weight_g": 50.262696359665846,
+        "price_per_kg": 12.88267204223048
+    },
+    {
+        "fruit_id": 8,
+        "fruit_name": "Fruit8",
+        "color": "Yellow",
+        "weight_g": 108.96596093088552,
+        "price_per_kg": 3.952621737956449
+    },
+    {
+        "fruit_id": 9,
+        "fruit_name": "Fruit9",
+        "color": "Red",
+        "weight_g": 465.3361567830489,
+        "price_per_kg": 13.634397197159629
+    },
+    {
+        "fruit_id": 10,
+        "fruit_name": "Fruit10",
+        "color": "Red",
+        "weight_g": 362.9827825121794,
+        "price_per_kg": 4.979412370567911
+    },
+    {
+        "fruit_id": 11,
+        "fruit_name": "Fruit11",
+        "color": "Yellow",
+        "weight_g": 493.67607969913223,
+        "price_per_kg": 9.201550542030905
+    },
+    {
+        "fruit_id": 12,
+        "fruit_name": "Fruit12",
+        "color": "Purple",
+        "weight_g": 109.52314228362144,
+        "price_per_kg": 12.587603175810655
+    },
+    {
+        "fruit_id": 13,
+        "fruit_name": "Fruit13",
+        "color": "Green",
+        "weight_g": 226.6951559383904,
+        "price_per_kg": 12.681976018711609
+    },
+    {
+        "fruit_id": 14,
+        "fruit_name": "Fruit14",
+        "color": "Red",
+        "weight_g": 380.60273548640004,
+        "price_per_kg": 2.4665716340037287
+    },
+    {
+        "fruit_id": 15,
+        "fruit_name": "Fruit15",
+        "color": "Yellow",
+        "weight_g": 411.4892476819399,
+        "price_per_kg": 2.33471599589918
+    },
+    {
+        "fruit_id": 16,
+        "fruit_name": "Fruit16",
+        "color": "Orange",
+        "weight_g": 262.0893335012845,
+        "price_per_kg": 5.4900064181555095
+    },
+    {
+        "fruit_id": 17,
+        "fruit_name": "Fruit17",
+        "color": "Green",
+        "weight_g": 359.94030428391983,
+        "price_per_kg": 7.097843468188084
+    },
+    {
+        "fruit_id": 18,
+        "fruit_name": "Fruit18",
+        "color": "Red",
+        "weight_g": 240.63259764729946,
+        "price_per_kg": 10.041726128692439
+    },
+    {
+        "fruit_id": 19,
+        "fruit_name": "Fruit19",
+        "color": "Purple",
+        "weight_g": 260.8222464357482,
+        "price_per_kg": 7.943888148316767
+    },
+    {
+        "fruit_id": 20,
+        "fruit_name": "Fruit20",
+        "color": "Yellow",
+        "weight_g": 92.92867203560317,
+        "price_per_kg": 10.462538718673434
+    },
+    {
+        "fruit_id": 21,
+        "fruit_name": "Fruit21",
+        "color": "Yellow",
+        "weight_g": 453.4635400337188,
+        "price_per_kg": 2.5959624317543684
+    },
+    {
+        "fruit_id": 22,
+        "fruit_name": "Fruit22",
+        "color": "Orange",
+        "weight_g": 430.44477601888116,
+        "price_per_kg": 7.65987245884816
+    },
+    {
+        "fruit_id": 23,
+        "fruit_name": "Fruit23",
+        "color": "Yellow",
+        "weight_g": 484.229346269672,
+        "price_per_kg": 6.583592696418549
+    },
+    {
+        "fruit_id": 24,
+        "fruit_name": "Fruit24",
+        "color": "Purple",
+        "weight_g": 115.98787718452856,
+        "price_per_kg": 4.321594310873419
+    },
+    {
+        "fruit_id": 25,
+        "fruit_name": "Fruit25",
+        "color": "Yellow",
+        "weight_g": 159.7475081981454,
+        "price_per_kg": 7.367473096192786
+    },
+    {
+        "fruit_id": 26,
+        "fruit_name": "Fruit26",
+        "color": "Orange",
+        "weight_g": 67.69289202308654,
+        "price_per_kg": 7.0992904481821535
+    },
+    {
+        "fruit_id": 27,
+        "fruit_name": "Fruit27",
+        "color": "Purple",
+        "weight_g": 319.52648213400226,
+        "price_per_kg": 12.85019223939797
+    },
+    {
+        "fruit_id": 28,
+        "fruit_name": "Fruit28",
+        "color": "Purple",
+        "weight_g": 193.6551040425487,
+        "price_per_kg": 7.323281999516317
+    },
+    {
+        "fruit_id": 29,
+        "fruit_name": "Fruit29",
+        "color": "Orange",
+        "weight_g": 410.14787159311805,
+        "price_per_kg": 6.766650033988208
+    },
+    {
+        "fruit_id": 30,
+        "fruit_name": "Fruit30",
+        "color": "Red",
+        "weight_g": 311.265776304878,
+        "price_per_kg": 2.337879352803233
+    },
+    {
+        "fruit_id": 31,
+        "fruit_name": "Fruit31",
+        "color": "Red",
+        "weight_g": 310.3865726167226,
+        "price_per_kg": 14.379882775475117
+    },
+    {
+        "fruit_id": 32,
+        "fruit_name": "Fruit32",
+        "color": "Red",
+        "weight_g": 402.7411840956299,
+        "price_per_kg": 7.632864455097723
+    },
+    {
+        "fruit_id": 33,
+        "fruit_name": "Fruit33",
+        "color": "Yellow",
+        "weight_g": 317.6239608620174,
+        "price_per_kg": 3.746138439256703
+    },
+    {
+        "fruit_id": 34,
+        "fruit_name": "Fruit34",
+        "color": "Yellow",
+        "weight_g": 119.90278129664908,
+        "price_per_kg": 11.166128959818831
+    },
+    {
+        "fruit_id": 35,
+        "fruit_name": "Fruit35",
+        "color": "Orange",
+        "weight_g": 104.35631585047472,
+        "price_per_kg": 9.000128649188571
+    },
+    {
+        "fruit_id": 36,
+        "fruit_name": "Fruit36",
+        "color": "Purple",
+        "weight_g": 436.63365995227406,
+        "price_per_kg": 4.926625797078363
+    },
+    {
+        "fruit_id": 37,
+        "fruit_name": "Fruit37",
+        "color": "Red",
+        "weight_g": 495.4622981853715,
+        "price_per_kg": 3.6962074215227876
+    },
+    {
+        "fruit_id": 38,
+        "fruit_name": "Fruit38",
+        "color": "Purple",
+        "weight_g": 259.8430796134182,
+        "price_per_kg": 13.107243121107766
+    },
+    {
+        "fruit_id": 39,
+        "fruit_name": "Fruit39",
+        "color": "Orange",
+        "weight_g": 483.99955289364874,
+        "price_per_kg": 6.502447642709465
+    },
+    {
+        "fruit_id": 40,
+        "fruit_name": "Fruit40",
+        "color": "Yellow",
+        "weight_g": 190.96313274950495,
+        "price_per_kg": 5.214984075766045
+    },
+    {
+        "fruit_id": 41,
+        "fruit_name": "Fruit41",
+        "color": "Orange",
+        "weight_g": 317.7084862398445,
+        "price_per_kg": 6.078622138274746
+    },
+    {
+        "fruit_id": 42,
+        "fruit_name": "Fruit42",
+        "color": "Yellow",
+        "weight_g": 309.25662915595575,
+        "price_per_kg": 10.615719311629174
+    },
+    {
+        "fruit_id": 43,
+        "fruit_name": "Fruit43",
+        "color": "Purple",
+        "weight_g": 264.29059241793425,
+        "price_per_kg": 3.0793466581377675
+    },
+    {
+        "fruit_id": 44,
+        "fruit_name": "Fruit44",
+        "color": "Yellow",
+        "weight_g": 320.79270004887366,
+        "price_per_kg": 13.86525840760494
+    },
+    {
+        "fruit_id": 45,
+        "fruit_name": "Fruit45",
+        "color": "Red",
+        "weight_g": 164.6598347522011,
+        "price_per_kg": 6.647670636638333
+    },
+    {
+        "fruit_id": 46,
+        "fruit_name": "Fruit46",
+        "color": "Yellow",
+        "weight_g": 131.4288085087415,
+        "price_per_kg": 4.568949863911498
+    },
+    {
+        "fruit_id": 47,
+        "fruit_name": "Fruit47",
+        "color": "Purple",
+        "weight_g": 477.5114776246557,
+        "price_per_kg": 12.203299239346611
+    },
+    {
+        "fruit_id": 48,
+        "fruit_name": "Fruit48",
+        "color": "Yellow",
+        "weight_g": 235.1492229098513,
+        "price_per_kg": 10.000916006032353
+    },
+    {
+        "fruit_id": 49,
+        "fruit_name": "Fruit49",
+        "color": "Red",
+        "weight_g": 488.50616573041776,
+        "price_per_kg": 11.087077387155299
+    },
+    {
+        "fruit_id": 50,
+        "fruit_name": "Fruit50",
+        "color": "Orange",
+        "weight_g": 404.762783518363,
+        "price_per_kg": 6.768556747594918
+    }
+]

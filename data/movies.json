@@ -1,0 +1,352 @@
+[
+    {
+        "movie_id": 1,
+        "title": "Movie1",
+        "genre": "Horror",
+        "release_year": 2006,
+        "rating": 6.931541009131375
+    },
+    {
+        "movie_id": 2,
+        "title": "Movie2",
+        "genre": "Sci-Fi",
+        "release_year": 2015,
+        "rating": 9.284690320240859
+    },
+    {
+        "movie_id": 3,
+        "title": "Movie3",
+        "genre": "Horror",
+        "release_year": 1991,
+        "rating": 6.780010881143555
+    },
+    {
+        "movie_id": 4,
+        "title": "Movie4",
+        "genre": "Horror",
+        "release_year": 1987,
+        "rating": 9.203221312218968
+    },
+    {
+        "movie_id": 5,
+        "title": "Movie5",
+        "genre": "Drama",
+        "release_year": 2013,
+        "rating": 9.702276703413494
+    },
+    {
+        "movie_id": 6,
+        "title": "Movie6",
+        "genre": "Comedy",
+        "release_year": 2023,
+        "rating": 8.985832824629842
+    },
+    {
+        "movie_id": 7,
+        "title": "Movie7",
+        "genre": "Horror",
+        "release_year": 2011,
+        "rating": 7.00455587885786
+    },
+    {
+        "movie_id": 8,
+        "title": "Movie8",
+        "genre": "Horror",
+        "release_year": 2017,
+        "rating": 3.9232794239552122
+    },
+    {
+        "movie_id": 9,
+        "title": "Movie9",
+        "genre": "Action",
+        "release_year": 2010,
+        "rating": 6.500019476187008
+    },
+    {
+        "movie_id": 10,
+        "title": "Movie10",
+        "genre": "Horror",
+        "release_year": 2021,
+        "rating": 4.8373756917801805
+    },
+    {
+        "movie_id": 11,
+        "title": "Movie11",
+        "genre": "Horror",
+        "release_year": 1996,
+        "rating": 7.820349467805162
+    },
+    {
+        "movie_id": 12,
+        "title": "Movie12",
+        "genre": "Drama",
+        "release_year": 2003,
+        "rating": 2.76000157404612
+    },
+    {
+        "movie_id": 13,
+        "title": "Movie13",
+        "genre": "Drama",
+        "release_year": 2023,
+        "rating": 1.0937901867836723
+    },
+    {
+        "movie_id": 14,
+        "title": "Movie14",
+        "genre": "Comedy",
+        "release_year": 2015,
+        "rating": 8.442828886476878
+    },
+    {
+        "movie_id": 15,
+        "title": "Movie15",
+        "genre": "Action",
+        "release_year": 2021,
+        "rating": 6.082206992391273
+    },
+    {
+        "movie_id": 16,
+        "title": "Movie16",
+        "genre": "Horror",
+        "release_year": 2017,
+        "rating": 3.8300215521711976
+    },
+    {
+        "movie_id": 17,
+        "title": "Movie17",
+        "genre": "Drama",
+        "release_year": 1994,
+        "rating": 6.300344419329761
+    },
+    {
+        "movie_id": 18,
+        "title": "Movie18",
+        "genre": "Comedy",
+        "release_year": 2022,
+        "rating": 3.862959410178389
+    },
+    {
+        "movie_id": 19,
+        "title": "Movie19",
+        "genre": "Horror",
+        "release_year": 2017,
+        "rating": 5.582301805712184
+    },
+    {
+        "movie_id": 20,
+        "title": "Movie20",
+        "genre": "Drama",
+        "release_year": 2006,
+        "rating": 8.989112324129643
+    },
+    {
+        "movie_id": 21,
+        "title": "Movie21",
+        "genre": "Comedy",
+        "release_year": 2008,
+        "rating": 1.8437395087612591
+    },
+    {
+        "movie_id": 22,
+        "title": "Movie22",
+        "genre": "Action",
+        "release_year": 1989,
+        "rating": 8.092085800396923
+    },
+    {
+        "movie_id": 23,
+        "title": "Movie23",
+        "genre": "Sci-Fi",
+        "release_year": 1985,
+        "rating": 9.455228229330583
+    },
+    {
+        "movie_id": 24,
+        "title": "Movie24",
+        "genre": "Drama",
+        "release_year": 1992,
+        "rating": 1.2374678072589793
+    },
+    {
+        "movie_id": 25,
+        "title": "Movie25",
+        "genre": "Comedy",
+        "release_year": 1983,
+        "rating": 4.134800582626617
+    },
+    {
+        "movie_id": 26,
+        "title": "Movie26",
+        "genre": "Action",
+        "release_year": 2003,
+        "rating": 5.49300348908923
+    },
+    {
+        "movie_id": 27,
+        "title": "Movie27",
+        "genre": "Drama",
+        "release_year": 2006,
+        "rating": 5.472818713349633
+    },
+    {
+        "movie_id": 28,
+        "title": "Movie28",
+        "genre": "Horror",
+        "release_year": 2003,
+        "rating": 9.9853322052027
+    },
+    {
+        "movie_id": 29,
+        "title": "Movie29",
+        "genre": "Comedy",
+        "release_year": 1994,
+        "rating": 8.025537522993005
+    },
+    {
+        "movie_id": 30,
+        "title": "Movie30",
+        "genre": "Action",
+        "release_year": 2005,
+        "rating": 7.088293946405951
+    },
+    {
+        "movie_id": 31,
+        "title": "Movie31",
+        "genre": "Action",
+        "release_year": 1991,
+        "rating": 9.74498289260371
+    },
+    {
+        "movie_id": 32,
+        "title": "Movie32",
+        "genre": "Drama",
+        "release_year": 1997,
+        "rating": 1.6664794991325282
+    },
+    {
+        "movie_id": 33,
+        "title": "Movie33",
+        "genre": "Action",
+        "release_year": 2012,
+        "rating": 9.287284166763985
+    },
+    {
+        "movie_id": 34,
+        "title": "Movie34",
+        "genre": "Action",
+        "release_year": 1983,
+        "rating": 9.815916669164517
+    },
+    {
+        "movie_id": 35,
+        "title": "Movie35",
+        "genre": "Comedy",
+        "release_year": 2021,
+        "rating": 9.254135821738432
+    },
+    {
+        "movie_id": 36,
+        "title": "Movie36",
+        "genre": "Comedy",
+        "release_year": 1989,
+        "rating": 1.1152955467836723
+    },
+    {
+        "movie_id": 37,
+        "title": "Movie37",
+        "genre": "Action",
+        "release_year": 1993,
+        "rating": 3.986241379985506
+    },
+    {
+        "movie_id": 38,
+        "title": "Movie38",
+        "genre": "Horror",
+        "release_year": 2017,
+        "rating": 5.574919669164968
+    },
+    {
+        "movie_id": 39,
+        "title": "Movie39",
+        "genre": "Horror",
+        "release_year": 2019,
+        "rating": 9.651518455278287
+    },
+    {
+        "movie_id": 40,
+        "title": "Movie40",
+        "genre": "Sci-Fi",
+        "release_year": 2013,
+        "rating": 5.997446799095031
+    },
+    {
+        "movie_id": 41,
+        "title": "Movie41",
+        "genre": "Action",
+        "release_year": 1982,
+        "rating": 6.293941026953465
+    },
+    {
+        "movie_id": 42,
+        "title": "Movie42",
+        "genre": "Horror",
+        "release_year": 2009,
+        "rating": 8.90322194863899
+    },
+    {
+        "movie_id": 43,
+        "title": "Movie43",
+        "genre": "Horror",
+        "release_year": 2013,
+        "rating": 1.8982756407806631
+    },
+    {
+        "movie_id": 44,
+        "title": "Movie44",
+        "genre": "Sci-Fi",
+        "release_year": 2009,
+        "rating": 8.944395078296163
+    },
+    {
+        "movie_id": 45,
+        "title": "Movie45",
+        "genre": "Comedy",
+        "release_year": 2000,
+        "rating": 1.52123163504588
+    },
+    {
+        "movie_id": 46,
+        "title": "Movie46",
+        "genre": "Horror",
+        "release_year": 2022,
+        "rating": 1.7210372716669489
+    },
+    {
+        "movie_id": 47,
+        "title": "Movie47",
+        "genre": "Horror",
+        "release_year": 2023,
+        "rating": 5.91176819736423
+    },
+    {
+        "movie_id": 48,
+        "title": "Movie48",
+        "genre": "Sci-Fi",
+        "release_year": 2006,
+        "rating": 4.118265298602051
+    },
+    {
+        "movie_id": 49,
+        "title": "Movie49",
+        "genre": "Horror",
+        "release_year": 1990,
+        "rating": 9.795598235420744
+    },
+    {
+        "movie_id": 50,
+        "title": "Movie50",
+        "genre": "Drama",
+        "release_year": 1990,
+        "rating": 8.345523107315573
+    }
+]

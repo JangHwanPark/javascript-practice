@@ -1,0 +1,352 @@
+[
+    {
+        "device_id": 1,
+        "device_name": "AirPods",
+        "model": "Model1",
+        "release_year": 2014,
+        "price": 849.257747827219
+    },
+    {
+        "device_id": 2,
+        "device_name": "iPhone",
+        "model": "Model2",
+        "release_year": 2016,
+        "price": 454.9063748051572
+    },
+    {
+        "device_id": 3,
+        "device_name": "iPad",
+        "model": "Model3",
+        "release_year": 2017,
+        "price": 1012.9230226927381
+    },
+    {
+        "device_id": 4,
+        "device_name": "Apple Watch",
+        "model": "Model4",
+        "release_year": 2013,
+        "price": 1203.3730788991124
+    },
+    {
+        "device_id": 5,
+        "device_name": "iPhone",
+        "model": "Model5",
+        "release_year": 2017,
+        "price": 2028.5979116099786
+    },
+    {
+        "device_id": 6,
+        "device_name": "iPhone",
+        "model": "Model6",
+        "release_year": 2010,
+        "price": 2136.1364001147103
+    },
+    {
+        "device_id": 7,
+        "device_name": "MacBook",
+        "model": "Model7",
+        "release_year": 2017,
+        "price": 670.6159515565319
+    },
+    {
+        "device_id": 8,
+        "device_name": "MacBook",
+        "model": "Model8",
+        "release_year": 2019,
+        "price": 1769.5059240674325
+    },
+    {
+        "device_id": 9,
+        "device_name": "iPad",
+        "model": "Model9",
+        "release_year": 2011,
+        "price": 2227.0927401450053
+    },
+    {
+        "device_id": 10,
+        "device_name": "iPad",
+        "model": "Model10",
+        "release_year": 2013,
+        "price": 1111.032242425494
+    },
+    {
+        "device_id": 11,
+        "device_name": "iPhone",
+        "model": "Model11",
+        "release_year": 2014,
+        "price": 1512.4773725149043
+    },
+    {
+        "device_id": 12,
+        "device_name": "iPad",
+        "model": "Model12",
+        "release_year": 2018,
+        "price": 1699.318564784688
+    },
+    {
+        "device_id": 13,
+        "device_name": "MacBook",
+        "model": "Model13",
+        "release_year": 2016,
+        "price": 2438.4601303943446
+    },
+    {
+        "device_id": 14,
+        "device_name": "iPhone",
+        "model": "Model14",
+        "release_year": 2023,
+        "price": 1801.8730795319852
+    },
+    {
+        "device_id": 15,
+        "device_name": "AirPods",
+        "model": "Model15",
+        "release_year": 2013,
+        "price": 1297.100195569952
+    },
+    {
+        "device_id": 16,
+        "device_name": "iPad",
+        "model": "Model16",
+        "release_year": 2021,
+        "price": 561.3605429273332
+    },
+    {
+        "device_id": 17,
+        "device_name": "Apple Watch",
+        "model": "Model17",
+        "release_year": 2017,
+        "price": 915.9496616293984
+    },
+    {
+        "device_id": 18,
+        "device_name": "iPhone",
+        "model": "Model18",
+        "release_year": 2011,
+        "price": 1323.4443163133863
+    },
+    {
+        "device_id": 19,
+        "device_name": "MacBook",
+        "model": "Model19",
+        "release_year": 2011,
+        "price": 1256.076391499057
+    },
+    {
+        "device_id": 20,
+        "device_name": "AirPods",
+        "model": "Model20",
+        "release_year": 2021,
+        "price": 1398.2214656185743
+    },
+    {
+        "device_id": 21,
+        "device_name": "iPad",
+        "model": "Model21",
+        "release_year": 2011,
+        "price": 367.8623687767971
+    },
+    {
+        "device_id": 22,
+        "device_name": "Apple Watch",
+        "model": "Model22",
+        "release_year": 2014,
+        "price": 2050.562679409144
+    },
+    {
+        "device_id": 23,
+        "device_name": "iPhone",
+        "model": "Model23",
+        "release_year": 2023,
+        "price": 1818.4095316821165
+    },
+    {
+        "device_id": 24,
+        "device_name": "AirPods",
+        "model": "Model24",
+        "release_year": 2014,
+        "price": 1171.2897188524805
+    },
+    {
+        "device_id": 25,
+        "device_name": "Apple Watch",
+        "model": "Model25",
+        "release_year": 2021,
+        "price": 851.4784306429812
+    },
+    {
+        "device_id": 26,
+        "device_name": "iPhone",
+        "model": "Model26",
+        "release_year": 2010,
+        "price": 627.9699371639356
+    },
+    {
+        "device_id": 27,
+        "device_name": "Apple Watch",
+        "model": "Model27",
+        "release_year": 2015,
+        "price": 620.8593803001945
+    },
+    {
+        "device_id": 28,
+        "device_name": "MacBook",
+        "model": "Model28",
+        "release_year": 2021,
+        "price": 1347.2508027709434
+    },
+    {
+        "device_id": 29,
+        "device_name": "Apple Watch",
+        "model": "Model29",
+        "release_year": 2016,
+        "price": 852.8617226762971
+    },
+    {
+        "device_id": 30,
+        "device_name": "MacBook",
+        "model": "Model30",
+        "release_year": 2021,
+        "price": 1146.1071139466635
+    },
+    {
+        "device_id": 31,
+        "device_name": "iPhone",
+        "model": "Model31",
+        "release_year": 2011,
+        "price": 1441.957668887407
+    },
+    {
+        "device_id": 32,
+        "device_name": "iPhone",
+        "model": "Model32",
+        "release_year": 2013,
+        "price": 863.2789630272521
+    },
+    {
+        "device_id": 33,
+        "device_name": "Apple Watch",
+        "model": "Model33",
+        "release_year": 2015,
+        "price": 605.4447650431669
+    },
+    {
+        "device_id": 34,
+        "device_name": "Apple Watch",
+        "model": "Model34",
+        "release_year": 2010,
+        "price": 899.8292925791551
+    },
+    {
+        "device_id": 35,
+        "device_name": "MacBook",
+        "model": "Model35",
+        "release_year": 2011,
+        "price": 1101.838042033234
+    },
+    {
+        "device_id": 36,
+        "device_name": "AirPods",
+        "model": "Model36",
+        "release_year": 2017,
+        "price": 2332.6609650882374
+    },
+    {
+        "device_id": 37,
+        "device_name": "MacBook",
+        "model": "Model37",
+        "release_year": 2021,
+        "price": 2287.6378612290046
+    },
+    {
+        "device_id": 38,
+        "device_name": "Apple Watch",
+        "model": "Model38",
+        "release_year": 2014,
+        "price": 2482.801968668218
+    },
+    {
+        "device_id": 39,
+        "device_name": "MacBook",
+        "model": "Model39",
+        "release_year": 2021,
+        "price": 490.4881609039302
+    },
+    {
+        "device_id": 40,
+        "device_name": "iPhone",
+        "model": "Model40",
+        "release_year": 2022,
+        "price": 2004.152587891799
+    },
+    {
+        "device_id": 41,
+        "device_name": "Apple Watch",
+        "model": "Model41",
+        "release_year": 2020,
+        "price": 816.3993105013467
+    },
+    {
+        "device_id": 42,
+        "device_name": "MacBook",
+        "model": "Model42",
+        "release_year": 2018,
+        "price": 2052.000144716935
+    },
+    {
+        "device_id": 43,
+        "device_name": "iPhone",
+        "model": "Model43",
+        "release_year": 2019,
+        "price": 1068.8691414004236
+    },
+    {
+        "device_id": 44,
+        "device_name": "Apple Watch",
+        "model": "Model44",
+        "release_year": 2013,
+        "price": 1015.9764873440413
+    },
+    {
+        "device_id": 45,
+        "device_name": "iPhone",
+        "model": "Model45",
+        "release_year": 2023,
+        "price": 2218.096347709975
+    },
+    {
+        "device_id": 46,
+        "device_name": "AirPods",
+        "model": "Model46",
+        "release_year": 2017,
+        "price": 1830.546725333362
+    },
+    {
+        "device_id": 47,
+        "device_name": "iPhone",
+        "model": "Model47",
+        "release_year": 2023,
+        "price": 975.5732015909316
+    },
+    {
+        "device_id": 48,
+        "device_name": "Apple Watch",
+        "model": "Model48",
+        "release_year": 2020,
+        "price": 2450.4341650492975
+    },
+    {
+        "device_id": 49,
+        "device_name": "iPad",
+        "model": "Model49",
+        "release_year": 2020,
+        "price": 499.5443071158952
+    },
+    {
+        "device_id": 50,
+        "device_name": "iPad",
+        "model": "Model50",
+        "release_year": 2019,
+        "price": 1113.6676928605139
+    }
+]

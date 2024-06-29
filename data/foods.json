@@ -1,0 +1,352 @@
+[
+    {
+        "food_id": 1,
+        "food_name": "Food1",
+        "category": "Grain",
+        "calories_per_serving": 184,
+        "price_per_unit": 8.230786585876544
+    },
+    {
+        "food_id": 2,
+        "food_name": "Food2",
+        "category": "Fruit",
+        "calories_per_serving": 144,
+        "price_per_unit": 2.2012401708512748
+    },
+    {
+        "food_id": 3,
+        "food_name": "Food3",
+        "category": "Grain",
+        "calories_per_serving": 330,
+        "price_per_unit": 16.936803162095778
+    },
+    {
+        "food_id": 4,
+        "food_name": "Food4",
+        "category": "Vegetable",
+        "calories_per_serving": 192,
+        "price_per_unit": 14.795299002291854
+    },
+    {
+        "food_id": 5,
+        "food_name": "Food5",
+        "category": "Grain",
+        "calories_per_serving": 367,
+        "price_per_unit": 4.743023928383785
+    },
+    {
+        "food_id": 6,
+        "food_name": "Food6",
+        "category": "Vegetable",
+        "calories_per_serving": 326,
+        "price_per_unit": 10.505743070381003
+    },
+    {
+        "food_id": 7,
+        "food_name": "Food7",
+        "category": "Vegetable",
+        "calories_per_serving": 354,
+        "price_per_unit": 12.065716288534368
+    },
+    {
+        "food_id": 8,
+        "food_name": "Food8",
+        "category": "Fruit",
+        "calories_per_serving": 372,
+        "price_per_unit": 1.5579534781789657
+    },
+    {
+        "food_id": 9,
+        "food_name": "Food9",
+        "category": "Vegetable",
+        "calories_per_serving": 139,
+        "price_per_unit": 2.7833163744077964
+    },
+    {
+        "food_id": 10,
+        "food_name": "Food10",
+        "category": "Meat",
+        "calories_per_serving": 490,
+        "price_per_unit": 4.861814434734858
+    },
+    {
+        "food_id": 11,
+        "food_name": "Food11",
+        "category": "Grain",
+        "calories_per_serving": 345,
+        "price_per_unit": 5.310593880572796
+    },
+    {
+        "food_id": 12,
+        "food_name": "Food12",
+        "category": "Fruit",
+        "calories_per_serving": 403,
+        "price_per_unit": 4.599070848717739
+    },
+    {
+        "food_id": 13,
+        "food_name": "Food13",
+        "category": "Vegetable",
+        "calories_per_serving": 397,
+        "price_per_unit": 2.5309265229705438
+    },
+    {
+        "food_id": 14,
+        "food_name": "Food14",
+        "category": "Fruit",
+        "calories_per_serving": 379,
+        "price_per_unit": 7.344116757963505
+    },
+    {
+        "food_id": 15,
+        "food_name": "Food15",
+        "category": "Vegetable",
+        "calories_per_serving": 155,
+        "price_per_unit": 2.915099125845286
+    },
+    {
+        "food_id": 16,
+        "food_name": "Food16",
+        "category": "Vegetable",
+        "calories_per_serving": 290,
+        "price_per_unit": 1.354957484918614
+    },
+    {
+        "food_id": 17,
+        "food_name": "Food17",
+        "category": "Meat",
+        "calories_per_serving": 269,
+        "price_per_unit": 19.693431706160084
+    },
+    {
+        "food_id": 18,
+        "food_name": "Food18",
+        "category": "Meat",
+        "calories_per_serving": 272,
+        "price_per_unit": 18.875445472350894
+    },
+    {
+        "food_id": 19,
+        "food_name": "Food19",
+        "category": "Meat",
+        "calories_per_serving": 240,
+        "price_per_unit": 9.613721111725175
+    },
+    {
+        "food_id": 20,
+        "food_name": "Food20",
+        "category": "Fruit",
+        "calories_per_serving": 421,
+        "price_per_unit": 2.8905223271374707
+    },
+    {
+        "food_id": 21,
+        "food_name": "Food21",
+        "category": "Grain",
+        "calories_per_serving": 134,
+        "price_per_unit": 11.82429510302155
+    },
+    {
+        "food_id": 22,
+        "food_name": "Food22",
+        "category": "Dairy",
+        "calories_per_serving": 101,
+        "price_per_unit": 5.475639419120258
+    },
+    {
+        "food_id": 23,
+        "food_name": "Food23",
+        "category": "Fruit",
+        "calories_per_serving": 127,
+        "price_per_unit": 13.314417888035594
+    },
+    {
+        "food_id": 24,
+        "food_name": "Food24",
+        "category": "Meat",
+        "calories_per_serving": 380,
+        "price_per_unit": 7.521390612697038
+    },
+    {
+        "food_id": 25,
+        "food_name": "Food25",
+        "category": "Dairy",
+        "calories_per_serving": 405,
+        "price_per_unit": 3.1468188231023646
+    },
+    {
+        "food_id": 26,
+        "food_name": "Food26",
+        "category": "Fruit",
+        "calories_per_serving": 109,
+        "price_per_unit": 16.6805788138461
+    },
+    {
+        "food_id": 27,
+        "food_name": "Food27",
+        "category": "Meat",
+        "calories_per_serving": 265,
+        "price_per_unit": 3.234469406222603
+    },
+    {
+        "food_id": 28,
+        "food_name": "Food28",
+        "category": "Meat",
+        "calories_per_serving": 138,
+        "price_per_unit": 16.655739530344167
+    },
+    {
+        "food_id": 29,
+        "food_name": "Food29",
+        "category": "Fruit",
+        "calories_per_serving": 160,
+        "price_per_unit": 18.974068017158903
+    },
+    {
+        "food_id": 30,
+        "food_name": "Food30",
+        "category": "Fruit",
+        "calories_per_serving": 243,
+        "price_per_unit": 8.329614088783819
+    },
+    {
+        "food_id": 31,
+        "food_name": "Food31",
+        "category": "Dairy",
+        "calories_per_serving": 178,
+        "price_per_unit": 10.635209857819744
+    },
+    {
+        "food_id": 32,
+        "food_name": "Food32",
+        "category": "Meat",
+        "calories_per_serving": 171,
+        "price_per_unit": 5.2758590932960825
+    },
+    {
+        "food_id": 33,
+        "food_name": "Food33",
+        "category": "Vegetable",
+        "calories_per_serving": 387,
+        "price_per_unit": 1.996931978291306
+    },
+    {
+        "food_id": 34,
+        "food_name": "Food34",
+        "category": "Vegetable",
+        "calories_per_serving": 436,
+        "price_per_unit": 14.49167787743707
+    },
+    {
+        "food_id": 35,
+        "food_name": "Food35",
+        "category": "Grain",
+        "calories_per_serving": 323,
+        "price_per_unit": 12.108800719662087
+    },
+    {
+        "food_id": 36,
+        "food_name": "Food36",
+        "category": "Fruit",
+        "calories_per_serving": 169,
+        "price_per_unit": 1.8540438801447903
+    },
+    {
+        "food_id": 37,
+        "food_name": "Food37",
+        "category": "Fruit",
+        "calories_per_serving": 205,
+        "price_per_unit": 11.449638695539752
+    },
+    {
+        "food_id": 38,
+        "food_name": "Food38",
+        "category": "Meat",
+        "calories_per_serving": 181,
+        "price_per_unit": 19.88308492629971
+    },
+    {
+        "food_id": 39,
+        "food_name": "Food39",
+        "category": "Dairy",
+        "calories_per_serving": 468,
+        "price_per_unit": 17.52229606026267
+    },
+    {
+        "food_id": 40,
+        "food_name": "Food40",
+        "category": "Vegetable",
+        "calories_per_serving": 69,
+        "price_per_unit": 17.447141689596638
+    },
+    {
+        "food_id": 41,
+        "food_name": "Food41",
+        "category": "Meat",
+        "calories_per_serving": 494,
+        "price_per_unit": 14.52770061834286
+    },
+    {
+        "food_id": 42,
+        "food_name": "Food42",
+        "category": "Meat",
+        "calories_per_serving": 83,
+        "price_per_unit": 9.986412762152137
+    },
+    {
+        "food_id": 43,
+        "food_name": "Food43",
+        "category": "Vegetable",
+        "calories_per_serving": 98,
+        "price_per_unit": 1.8660917103145145
+    },
+    {
+        "food_id": 44,
+        "food_name": "Food44",
+        "category": "Vegetable",
+        "calories_per_serving": 420,
+        "price_per_unit": 2.996347720050557
+    },
+    {
+        "food_id": 45,
+        "food_name": "Food45",
+        "category": "Grain",
+        "calories_per_serving": 245,
+        "price_per_unit": 11.023503511839674
+    },
+    {
+        "food_id": 46,
+        "food_name": "Food46",
+        "category": "Dairy",
+        "calories_per_serving": 461,
+        "price_per_unit": 17.364294064872286
+    },
+    {
+        "food_id": 47,
+        "food_name": "Food47",
+        "category": "Meat",
+        "calories_per_serving": 87,
+        "price_per_unit": 3.2478276884993824
+    },
+    {
+        "food_id": 48,
+        "food_name": "Food48",
+        "category": "Vegetable",
+        "calories_per_serving": 302,
+        "price_per_unit": 16.748342048712864
+    },
+    {
+        "food_id": 49,
+        "food_name": "Food49",
+        "category": "Fruit",
+        "calories_per_serving": 380,
+        "price_per_unit": 9.4421275272995
+    },
+    {
+        "food_id": 50,
+        "food_name": "Food50",
+        "category": "Fruit",
+        "calories_per_serving": 239,
+        "price_per_unit": 18.41307863861472
+    }
+]

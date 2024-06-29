@@ -1,0 +1,352 @@
+[
+    {
+        "region_id": 1,
+        "region_name": "Region1",
+        "country": "Australia",
+        "population": 134959,
+        "area_km2": 4765.46736258652
+    },
+    {
+        "region_id": 2,
+        "region_name": "Region2",
+        "country": "USA",
+        "population": 3041413,
+        "area_km2": 5394.138998157097
+    },
+    {
+        "region_id": 3,
+        "region_name": "Region3",
+        "country": "Canada",
+        "population": 2959473,
+        "area_km2": 3447.780256786092
+    },
+    {
+        "region_id": 4,
+        "region_name": "Region4",
+        "country": "Germany",
+        "population": 221530,
+        "area_km2": 8233.714654246018
+    },
+    {
+        "region_id": 5,
+        "region_name": "Region5",
+        "country": "Germany",
+        "population": 3924706,
+        "area_km2": 6145.145161033186
+    },
+    {
+        "region_id": 6,
+        "region_name": "Region6",
+        "country": "Canada",
+        "population": 3989677,
+        "area_km2": 4284.3610882233415
+    },
+    {
+        "region_id": 7,
+        "region_name": "Region7",
+        "country": "Australia",
+        "population": 3877807,
+        "area_km2": 9306.705135704282
+    },
+    {
+        "region_id": 8,
+        "region_name": "Region8",
+        "country": "UK",
+        "population": 176224,
+        "area_km2": 5001.996415645407
+    },
+    {
+        "region_id": 9,
+        "region_name": "Region9",
+        "country": "UK",
+        "population": 3498359,
+        "area_km2": 4254.384087956024
+    },
+    {
+        "region_id": 10,
+        "region_name": "Region10",
+        "country": "USA",
+        "population": 2318604,
+        "area_km2": 6969.344563149687
+    },
+    {
+        "region_id": 11,
+        "region_name": "Region11",
+        "country": "UK",
+        "population": 953510,
+        "area_km2": 8184.598436670736
+    },
+    {
+        "region_id": 12,
+        "region_name": "Region12",
+        "country": "Germany",
+        "population": 731820,
+        "area_km2": 7568.345946418955
+    },
+    {
+        "region_id": 13,
+        "region_name": "Region13",
+        "country": "Australia",
+        "population": 3273835,
+        "area_km2": 4706.784411843413
+    },
+    {
+        "region_id": 14,
+        "region_name": "Region14",
+        "country": "UK",
+        "population": 1709431,
+        "area_km2": 1242.2746235318739
+    },
+    {
+        "region_id": 15,
+        "region_name": "Region15",
+        "country": "USA",
+        "population": 1806194,
+        "area_km2": 2046.0964077376884
+    },
+    {
+        "region_id": 16,
+        "region_name": "Region16",
+        "country": "Australia",
+        "population": 1812281,
+        "area_km2": 9019.405975731635
+    },
+    {
+        "region_id": 17,
+        "region_name": "Region17",
+        "country": "Germany",
+        "population": 1565520,
+        "area_km2": 1612.5085350598679
+    },
+    {
+        "region_id": 18,
+        "region_name": "Region18",
+        "country": "Australia",
+        "population": 4605768,
+        "area_km2": 6247.54714916429
+    },
+    {
+        "region_id": 19,
+        "region_name": "Region19",
+        "country": "USA",
+        "population": 872061,
+        "area_km2": 7673.385531770788
+    },
+    {
+        "region_id": 20,
+        "region_name": "Region20",
+        "country": "Australia",
+        "population": 4448310,
+        "area_km2": 7460.8368080556675
+    },
+    {
+        "region_id": 21,
+        "region_name": "Region21",
+        "country": "USA",
+        "population": 2672454,
+        "area_km2": 3633.5464887513585
+    },
+    {
+        "region_id": 22,
+        "region_name": "Region22",
+        "country": "UK",
+        "population": 3566635,
+        "area_km2": 9692.76532516937
+    },
+    {
+        "region_id": 23,
+        "region_name": "Region23",
+        "country": "Germany",
+        "population": 2236312,
+        "area_km2": 2317.573511411459
+    },
+    {
+        "region_id": 24,
+        "region_name": "Region24",
+        "country": "Australia",
+        "population": 2231380,
+        "area_km2": 8061.995055959516
+    },
+    {
+        "region_id": 25,
+        "region_name": "Region25",
+        "country": "USA",
+        "population": 3230129,
+        "area_km2": 8294.85638034734
+    },
+    {
+        "region_id": 26,
+        "region_name": "Region26",
+        "country": "USA",
+        "population": 3561635,
+        "area_km2": 4096.181446726385
+    },
+    {
+        "region_id": 27,
+        "region_name": "Region27",
+        "country": "Germany",
+        "population": 3955698,
+        "area_km2": 4334.203393550428
+    },
+    {
+        "region_id": 28,
+        "region_name": "Region28",
+        "country": "USA",
+        "population": 339954,
+        "area_km2": 4884.230758620771
+    },
+    {
+        "region_id": 29,
+        "region_name": "Region29",
+        "country": "UK",
+        "population": 1562337,
+        "area_km2": 4701.8772623922105
+    },
+    {
+        "region_id": 30,
+        "region_name": "Region30",
+        "country": "Germany",
+        "population": 371253,
+        "area_km2": 4697.899101628572
+    },
+    {
+        "region_id": 31,
+        "region_name": "Region31",
+        "country": "Australia",
+        "population": 3283049,
+        "area_km2": 8790.76104520054
+    },
+    {
+        "region_id": 32,
+        "region_name": "Region32",
+        "country": "UK",
+        "population": 3227270,
+        "area_km2": 1321.0188307069836
+    },
+    {
+        "region_id": 33,
+        "region_name": "Region33",
+        "country": "UK",
+        "population": 3866052,
+        "area_km2": 7296.8163486680805
+    },
+    {
+        "region_id": 34,
+        "region_name": "Region34",
+        "country": "Canada",
+        "population": 736128,
+        "area_km2": 3437.616316613938
+    },
+    {
+        "region_id": 35,
+        "region_name": "Region35",
+        "country": "USA",
+        "population": 2610343,
+        "area_km2": 1431.6546594132346
+    },
+    {
+        "region_id": 36,
+        "region_name": "Region36",
+        "country": "UK",
+        "population": 1970650,
+        "area_km2": 8309.125270147872
+    },
+    {
+        "region_id": 37,
+        "region_name": "Region37",
+        "country": "Canada",
+        "population": 4021232,
+        "area_km2": 8673.890785216028
+    },
+    {
+        "region_id": 38,
+        "region_name": "Region38",
+        "country": "Canada",
+        "population": 50666,
+        "area_km2": 7575.973059748417
+    },
+    {
+        "region_id": 39,
+        "region_name": "Region39",
+        "country": "UK",
+        "population": 2260172,
+        "area_km2": 9658.771842030887
+    },
+    {
+        "region_id": 40,
+        "region_name": "Region40",
+        "country": "UK",
+        "population": 329660,
+        "area_km2": 4616.279299685883
+    },
+    {
+        "region_id": 41,
+        "region_name": "Region41",
+        "country": "Germany",
+        "population": 2414585,
+        "area_km2": 1065.363327060473
+    },
+    {
+        "region_id": 42,
+        "region_name": "Region42",
+        "country": "Germany",
+        "population": 3222870,
+        "area_km2": 1034.0701774314048
+    },
+    {
+        "region_id": 43,
+        "region_name": "Region43",
+        "country": "Australia",
+        "population": 4831271,
+        "area_km2": 9606.223850285274
+    },
+    {
+        "region_id": 44,
+        "region_name": "Region44",
+        "country": "Australia",
+        "population": 2639094,
+        "area_km2": 3021.2109518713073
+    },
+    {
+        "region_id": 45,
+        "region_name": "Region45",
+        "country": "Australia",
+        "population": 1303568,
+        "area_km2": 2159.4797045486166
+    },
+    {
+        "region_id": 46,
+        "region_name": "Region46",
+        "country": "UK",
+        "population": 3293623,
+        "area_km2": 9906.753360886209
+    },
+    {
+        "region_id": 47,
+        "region_name": "Region47",
+        "country": "Canada",
+        "population": 3704131,
+        "area_km2": 4047.0409583279884
+    },
+    {
+        "region_id": 48,
+        "region_name": "Region48",
+        "country": "Australia",
+        "population": 2233686,
+        "area_km2": 5917.5780420564
+    },
+    {
+        "region_id": 49,
+        "region_name": "Region49",
+        "country": "Canada",
+        "population": 212979,
+        "area_km2": 7638.321062406748
+    },
+    {
+        "region_id": 50,
+        "region_name": "Region50",
+        "country": "UK",
+        "population": 471407,
+        "area_km2": 2167.553033066691
+    }
+]
