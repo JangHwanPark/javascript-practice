@@ -11,9 +11,17 @@ const users = [
     { id: 5, name: "Eve", age: 35, isActive: true },
 ];
 
-// map() -
+// map() - 배열의 요소를 순회하고 새로운 배열을 반환한다.
+const builtInMap = users.map((item, index, array) => {
+    return `builtInMap: ${JSON.stringify(item)}`
+})
+console.log(builtInMap)
 
-// filter() -
+// filter() - 조건에 해당하는 배열을 반환한다.
+const builtInFilter = users.filter((item) => {
+    return item.name === "Alice"
+})
+console.log(builtInFilter)
 
 // reduce() -
 
