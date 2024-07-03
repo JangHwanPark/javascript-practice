@@ -1,28 +1,31 @@
-/**
- * Definition for a binary tree node.
- * function TreeNode(val, left, right) {
- *     this.val = (val===undefined ? 0 : val)
- *     this.left = (left===undefined ? null : left)
- *     this.right = (right===undefined ? null : right)
- * }
- */
-/**
- * @param {TreeNode} p
- * @param {TreeNode} q
- * @return {boolean}
- */
-var isSameTree = function(p, q) {
-    if (p === null && q === null) {
-        return true;
-    }
+const dfs = (graph, start) => {
+  let stack = [start];
+  let visited = new Set();
 
-    if (p === null || q === null) {
-        return false;
-    }
+  while (stack.length > 0) {
+    let node = stack.pop();
+    if (!visited.has(node)) {
+      visited.add(node);
 
-    if (p.val !== q.val) {
-        return false;
-    }
+      // 방문할 노드 출력
+      console.log(node)
 
-    return isSameTree(p.left, q.left) && isSameTree(p.right, q.right)
+      // 인접 노드를 스택에 추가
+      for (let neighbor of graph[node]) {
+        if (!visited.has[neighbor]) {
+          stack.push(neighbor);
+        }
+      }
+    }
+  }
+}
+
+// 그래프 예시 (인접 리스트 형태)
+let graph = {
+    0: [1, 2],
+    1: [2],
+    2: [0, 3],
+    3: [3]
 };
+
+dfs(graph, 2)
