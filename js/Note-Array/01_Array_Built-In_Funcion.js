@@ -48,14 +48,46 @@ const builtInReduceString = products.reduce((
   console.log("accumulator: " + JSON.stringify(accumulator))
   return accumulator + currentValue.name;
 })
-console.log(builtInReduceString)
 
 
-// forEach() -
+// forEach() - 배열을 순회하며 반환값이 없다.
+users.forEach(item => {
+  console.log(item)
+})
 
-// find() -
+// forEach for 문으로 구현
+let regularCustomer = [];
+for (let i = 0; i < users.length; i++) {
+  if (users[i].id === 3) {
+    regularCustomer.push(users[i])
+  }
+}
 
-// findIndex() -
+users.forEach(item => {
+  if (item.id === 5) {
+    regularCustomer.push(item)
+  }
+})
+
+console.log(regularCustomer)
+
+// find() - 요소를 순회하여 콜백함수의 조건이 참인 첫번째 요소를 반환
+let search = "David"
+const findUser = users.find((user) => user.name === search)
+console.log(findUser)
+
+users.find((user) => {
+  if (user.name === "Bob") {
+    console.log("나는 밥이야")
+  } 
+})
+
+// findIndex() - 요소를 순회하여 콜백함수를 호출하고 조건이 참인 첫번째 요소를 반환한다.
+const findUserId = users.findIndex((user) => user.id === 3)
+console.log(findUserId)
+
+const findUserNameIndex = users.findIndex((user) => user.name === search);
+console.log(findUserNameIndex)
 
 // every() -
 
