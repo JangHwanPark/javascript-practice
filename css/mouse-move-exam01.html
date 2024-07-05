@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<style>
+    body {
+        background: #000;
+    }
+
+    .circle {
+        width: 100px;
+        height: 100px;
+        background: #fff;
+        border-radius: 50%;
+        position: absolute; /* 위치 조절을 위한 포지션 */
+        left: 50%;
+        top: 50%;
+        cursor: pointer;
+    }
+</style>
+<body>
+<div class="circle"></div>
+<script>
+    const circle = document.querySelector('.circle');
+    let isDragging = false;
+    let originX;
+    let originY;
+
+    circle.addEventListener('mousedown', (e) => {
+      // 드래그중
+      isDragging = true;
+
+      // 마우스 클릭 위치, 원의 좌측변 거리 계산
+      originX = e.clientX - circle.getBoundingClientRect().left;
+      originY = e.clientY - circle.getBoundingClientRect().top;
+      console.log(isDragging, originX)
+    });
+
+    document.addEventListener('mousemove', (e) => {
+      if (isDragging) {
+        const mouseX = e.clientX;
+        const mouseY = e.clientY;
+
+        // 원의 위치를 마우스 위치에 따라 조절
+        circle.style.left = `${mouseX - originX}px`
+        circle.style.top = `${mouseY - originY}px`
+      }
+    });
+
+    document.addEventListener('mouseup', () => {
+      isDragging = false;
+    })
+</script>
+</body>
+</html>
