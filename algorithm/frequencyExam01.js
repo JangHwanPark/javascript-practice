@@ -3,8 +3,7 @@ function CalculateFrequency(str) {
   console.log(frequencyMap)
 
   for (const char of str) {
-    frequencyMap.set(
-      char,
+    frequencyMap.set(char,
       (frequencyMap.get(char) || 0) + 1
     );
   }
