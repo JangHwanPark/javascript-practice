@@ -30,13 +30,41 @@ class SinglyLinkedList {
     this.length++;
     return this;
   }
+
+  // 노드 삭제
+  pop() {
+    if (!this.head) return undefined;
+    let current = this.head;
+    let newTail = current;
+    // 리스트에 아무것도 없으면 undefined 반환
+    // 리스트가 비어있는지 확인하려면 head 값이 null 인지
+    // 길이가 0인지를 확인하면됨
+    
+    // next 가 존재하는한 계속 순회
+    while (current.next) {
+      //
+      newTail = current;
+      current = current.next;
+    }
+    //
+    this.tail = newTail;
+    this.tail.next = null;
+    this.length--;
+    if (this.length === 0) {
+      this.head = null;
+      this.tail = null;
+    }
+    return current;
+  }
 }
 
 let list = new SinglyLinkedList();
-console.log(list)
+//console.log(list)
 list.push("Hello")
-console.log(list)
+//console.log(list)
 list.push("Goodbye")
-console.log(list)
+//console.log(list)
 list.push(99)
 console.log(list)
+
+console.log(list.pop())
