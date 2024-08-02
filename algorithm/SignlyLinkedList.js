@@ -66,5 +66,4 @@ list.push("Goodbye")
 //console.log(list)
 list.push(99)
 console.log(list)
-
 console.log(list.pop())
